@@ -185,6 +185,7 @@ var langs = {
     "sw":["Swahili","Kiswahili"],
     "ta":["Tamil","தமிழ்"],
     "te":["Telugu","తెలుగు"],
+    "tet":["Tetun","Tetun"],
     "tg":["Tajik","Тоҷикӣ"],
     "th":["Thai","ไทย / Phasa Thai"],
     "ti":["Tigrinya","ትግርኛ"],
