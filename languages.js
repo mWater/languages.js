@@ -163,7 +163,7 @@ var langs = {
     "rn":["Kirundi","Kirundi"],
     "ro":["Romanian","Română"],
     "ru":["Russian","Русский"],
-    "rw":["Rwandi","Kinyarwandi"],
+    "rw":["Rwandi","Kinyarwanda"],
     "sa":["Sanskrit","संस्कृतम्"],
     "sc":["Sardinian","Sardu"],
     "sd":["Sindhi","सिनधि"],
